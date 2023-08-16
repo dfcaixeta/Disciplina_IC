@@ -41,4 +41,13 @@ Módulo 04_IC
 
 Módulo 05_IC
 
+10. Instruções de máquina: Como o processador recebe as instruções?
+10.1. Breve introdução. 10.1.1. Formato das instruções. 10.1.2. Executando as instruções.
+
+11. Arquiteturas & Processadores:  RISC versus CISC
+11.1. Conceitos iniciais. 11.2. Um pouco da história. 11.3. Definições RISC e CISC. 11.3.1. RISC. 11.3.2. CISC. 11.4. RISC versus CISC. 11.4.1. Análise comparativa. 11.4.2. Quadro comparativo: Vantagens e Desvantagens. 11.4.3. Atualmente.
+
+Referências
+
+
 
