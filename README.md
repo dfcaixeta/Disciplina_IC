@@ -37,7 +37,7 @@ Unidade 03_IC
 
 Referências
 
-Módulo 04_IC
+Unidade 04_IC
 
 8. Instruções de máquina: Como o processador recebe as instruções?
    8.1. Breve introdução. 8.1.1. Formato das instruções. 8.1.2. Executando as instruções.
