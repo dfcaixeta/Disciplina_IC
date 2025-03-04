@@ -20,19 +20,16 @@ Unidade 02_IC
 4. Representação da Informação: Dos bits aos bytes [...].
    4.1. Conceito de bit e byte. 4.2. Possibilidades de representação.
 
-5. Representação computacional: Números, textos, imagens, etc.
-   5.1. Números. 5.2. Textos. 5.3. Imagem. 5.4. Som/Música.
+5. Conversão numérica: Como o computador pensa e executa.
+   5.1. Sistema posicional. 5.2. As bases [...]. 5.3. Conversão entre bases 2, 8 e 16. 5.4. Conversão de base b para base 10. 5.5. Conversão de base 10 para base b. 5.6. Números binários negativos. 5.7. Aritmética binária.
 
-6. Sistemas de numeração: A história dos números.
-   6.1. Introdução [...]. 6.2. Os sistemas de numeração. 6.3. O sistema egípcio (3.000 a.C.). 6.4. O sistema babilônico (2.000 a.C.). 6.5. O sistema romano (27 a.C. - 395 d.C.). 6.6. O sistema indo-arábico (± sec. V).
+6. A lógica binária: Circuitos lógicos e operadores.
+6.1. Sistemas dicotômicos e a Álgebra de Boole. 6.2. Interruptores. 6.3. A lógica binária. 6.4. A soma em um computador.
 
 Unidade 03_IC
 
-7. Conversão numérica: Como o computador pensa e executa.
-7.1. Sistema posicional. 7.2. As bases [...]. 7.3. Conversão entre bases 2, 8 e 16. 7.4. Conversão de base b para base 10. 7.5. Conversão de base 10 para base b. 7.6. Números binários negativos. 7.7. Aritmética binária.
 
-8. A lógica binária: Circuitos lógicos e operadores.
-8.1. Sistemas dicotômicos e a Álgebra de Boole. 8.2. Interruptores. 8.3. A lógica binária. 8.4. A soma em um computador.
+
 
 Módulo 04_IC
 
